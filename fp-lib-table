@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "555_Timer")(type "KiCad")(uri "${KIPRJMOD}/555_Timer.pretty")(options "")(descr ""))
+)
